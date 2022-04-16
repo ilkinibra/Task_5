@@ -1,0 +1,14 @@
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.exe
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.deps.json
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.json
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.dev.json
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.dll
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.pdb
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.csproj.AssemblyReference.cache
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfoInputs.cache
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfo.cs
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.dll
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.pdb
+C:\Users\tu7mrkt9v\Desktop\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.genruntimeconfig.cache
